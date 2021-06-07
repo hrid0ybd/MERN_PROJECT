@@ -38,3 +38,19 @@ h3 {
 .price {
   text-align: center;
 }
+
+.bold {
+  font-weight: bold;
+}
+
+.desc {
+  text-align: justify;
+}
+
+.btnCard {
+  text-align: center;
+}
+
+.textCenter {
+  text-align: center;
+}
